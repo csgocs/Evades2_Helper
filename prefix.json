@@ -1,0 +1,42 @@
+{
+    "CSGO": {
+        "prefix": "[help2-own]",
+        "color": "rainbow"
+    },
+    "1233215[YT]": {
+        "prefix": "[Yt]",
+        "color": "red"
+    },
+    "goaa": {
+        "prefix": "[Neko]",
+        "color": "pink"
+    },
+    "vveniamin": {
+        "prefix": "[Vip]",
+        "color": "gold"
+    },
+    "LEHASTANAAADF": {
+        "prefix": "[Pro]",
+        "color": "blue"
+    },
+    "Evаdes.1,2,3": {
+        "prefix": "[Yt]",
+        "color": "red"
+    },
+    "Cepoglazik": {
+        "prefix": "[Scripter]",
+        "color": "rainbow"
+    },
+    "Orest": {
+        "prefix": "[Legend]",
+        "color": "darkred"
+    },
+    "Сдача от магаза": {
+        "prefix": "[Pro_2]",
+        "color": "lightblue"
+    },
+    "slaiм": {
+        "prefix": "[Legend]",
+        "color": "darkred"
+    }
+}
