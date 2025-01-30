@@ -38,5 +38,9 @@
     "slaiм": {
         "prefix": "[Legend]",
         "color": "darkred"
+    },
+    "dimka_mehanik": {
+        "prefix": "[amogus]",
+        "color": "#e05c55"
     }
 }
