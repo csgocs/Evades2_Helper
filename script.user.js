@@ -5,7 +5,7 @@
 // @description  Evades2 Helper
 // @author       CSGO
 // @match        http://evades2.depuresu.net/*
-// @icon         https://cdn.discordapp.com/emojis/887849109107662868.webp?size=128&animated=true
+// @icon         https://cdn.discordapp.com/emojis/1137852709312151607.webp?size=128&animated=true
 // @grant        none
 // @license      CC BY-ND 4.0
 // ==/UserScript==
